@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+p.error {
+  font-size: 10px;
+  color: red;
+}
